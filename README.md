@@ -2,4 +2,5 @@ Um site construído em Laravel para cadastro de eventos, com tela de login e das
 
 Configure o banco no arquivo .env
 npm install
+composer install
 php artisan migrate
