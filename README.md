@@ -4,3 +4,6 @@ Configure o banco no arquivo .env
 npm install
 composer install
 php artisan migrate
+
+Licença
+Este projeto está licenciado sob a licença Creative Commons Attribution 4.0 International.
